@@ -1,0 +1,13 @@
+# i/bin/bash
+echo "1. hello world"
+echo "2a. Printing text with newline"
+echo -n "2b Printing text without newline"
+echo -e "2c \nRemoving \t backslash \t characters\n"
+echo "Q3"
+#Add two numeric value
+((sum=25+35))
+echo $sum
+
+echo "Q4"
+
+
